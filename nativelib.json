@@ -1,0 +1,15 @@
+{
+  "name": "firebase-crashlytics",
+  "description": "Firebase crashlytics package for Godot engine",
+  "version": "0.1.0",
+  "license": "MIT",
+  "url": "https://github.com/DrMoriarty/godot-firebase-crashlytics.git",
+  "dependencies": [
+    "firebase-core"
+  ],
+  "platform_android": {
+    "files": {
+      "android": "android/firebase-crashlytics/"
+    }
+  }
+}
